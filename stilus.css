@@ -1,0 +1,84 @@
+#vonal {
+    border-bottom: 0.5px black dotted;
+}
+#mentes {
+    background-color: rgb(57, 185, 57);
+    color: white;
+    position: relative;
+    top: 30px;
+    box-shadow: none;
+    border: solid darkgreen 1.5px;
+    width: 485px;
+    height: 30px;
+}
+#telefonszam {
+    position: relative;
+    left: 175px;
+    bottom: 8px;
+} 
+#label1 {
+    height: 20px;
+    width: 190px;
+    position: relative;
+    bottom: 4px;
+}
+#selector1 {
+    position: relative;
+    left: 5px;
+    height: 26px;
+    width: 90px;
+    bottom: 4px;
+}
+#label2 {
+    height: 20px;
+    width: 171px;
+    position: relative;
+    left: 10px;
+    bottom: 4px;
+}
+#rovid {
+    height: 20px;
+    width: 150px;
+    position: relative;
+    top: 5px;
+}
+#hosszu {
+    height: 20px;
+    width: 310px;
+    position: relative;
+    top: 15px;
+    left: 5px;
+}
+#selector2 {
+    height: 26px;
+    width: 318px;
+    position: relative;
+    top: 5px;
+    left: 5px;
+}
+#rovid2 {
+    height: 26px;
+    width: 158px;
+    position: relative;
+    top: 15px;
+}
+#varos {
+    position: relative;
+    left: 71px;
+}
+#cim {
+    position: relative;
+    left: 110px;
+    top: 10px;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#nev {
+    position: relative;
+    bottom: 8px
+}
+#orszag {
+    position: relative;
+    top: 10px;
+}
